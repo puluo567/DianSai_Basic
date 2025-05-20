@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "receive_task.h": "c",
+        "key_bsp.h": "c",
+        "vofa_bsp.h": "c",
+        "pid_bsp.h": "c",
+        "uartlcd_bsp.h": "c"
+    }
+}
